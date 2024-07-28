@@ -4,8 +4,8 @@
   "description": "hello this is my project",
   "main": "script.js",
   "scripts": {
-    "start": "src/index.html",
-    "build": "src/index.html"
+    "start": "./src/index.html",
+    "build": "./src/index.html"
   },
   "author": "nikoloz nutsubidze",
   "license": "ISC",
