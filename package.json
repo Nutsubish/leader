@@ -9,6 +9,7 @@
   },
   "author": "nikoloz nutsubidze",
   "license": "ISC",
+  "repository": "https://github.com/Nutsubish/leader",
   "devDependencies": {
     "parcel": "^2.12.0"
   }
